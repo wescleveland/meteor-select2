@@ -73,7 +73,6 @@ Version: @@ver@@ Timestamp: @@timestamp@@
 }
 
 .select2-container .select2-choice > .select2-chosen {
-    /*margin-right: 26px;*/
     display: block;
     overflow: hidden;
 
